@@ -1,0 +1,4 @@
+Parameters:
+MPI procs: 16
+Nodes: 1
+Problem size: 29

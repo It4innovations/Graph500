@@ -1,0 +1,37 @@
+
+Currently Loaded Modules:
+  1) GCCcore/6.4.0
+  2) binutils/2.28-GCCcore-6.4.0
+  3) icc/2018.1.163-GCC-6.4.0-2.28
+  4) ifort/2018.1.163-GCC-6.4.0-2.28
+  5) iccifort/2018.1.163-GCC-6.4.0-2.28
+  6) impi/2018.1.163-iccifort-2018.1.163-GCC-6.4.0-2.28
+  7) iimpi/2018a
+  8) imkl/2018.1.163-iimpi-2018a
+  9) intel/2018a
+ 10) Graph500/3.0.0-intel-2018a
+graph_generation:               178.721389 s
+/home/han0037/Desktop/Graph500/graph500_job_command.sh: line 8: 13071 Segmentation fault      graph500_reference_bfs $G5_PROBLEM_SIZE 16
+/home/han0037/Desktop/Graph500/graph500_job_command.sh: line 8: 15572 Segmentation fault      graph500_reference_bfs $G5_PROBLEM_SIZE 16
+r25u24n709: # PBS Epilogue Report
+r25u24n709: # Issues found in kernel log
+r25u24n709: [2915414.357314] graph500_refere[15573]: segfault at 7ffdbd8df4c8 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u24n709: [2915414.357317] graph500_refere[15594]: segfault at 7ffdd9f890fc ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u24n709: [2915414.357321] graph500_refere[15588]: segfault at 7ffdd9b8a276 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u24n709: [2915414.357324] graph500_refere[15590]: segfault at 7ffdf6e26834 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u24n709: [2915414.357328] graph500_refere[15593]: segfault at 7ffded55299a ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u24n709: [2915414.357331] graph500_refere[15589]: segfault at 7ffdca9a6770 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u24n709: [2915414.357335] graph500_refere[15597]: segfault at 7ffde4aadc88 ip 00000000004027a0 sp 00007fffffff9498 error 6 in graph500_reference_bfs[400000+8d000]
+r25u24n709: [2915414.357344] graph500_refere[15585]: segfault at 7ffdc0224a8c ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u24n709: [2915414.357348] graph500_refere[15596]: segfault at 7ffdefbaf666 ip 00000000004027a0 sp 00007fffffff9498 error 6 in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000]
+r25u25n710: # PBS Epilogue Report
+r25u25n710: # Issues found in kernel log
+r25u25n710: [2915397.682108] graph500_refere[13083]: segfault at 7ffdbec5e360 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u25n710: [2915397.682112] graph500_refere[13077]: segfault at 7ffdcbbe3eac ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u25n710: [2915397.682117] graph500_refere[13071]: segfault at 7ffdc278ad1e ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u25n710: [2915397.682122] graph500_refere[13085]: segfault at 7ffdcb735bcc ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u25n710: [2915397.682125] graph500_refere[13081]: segfault at 7ffddad8b0f4 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u25n710: [2915397.682131] graph500_refere[13080]: segfault at 7ffde91f811a ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u25n710: [2915397.682141] graph500_refere[13065]: segfault at 7ffdfa34363a ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u25n710: [2915397.682146] graph500_refere[13064]: segfault at 7ffdf4768e54 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r25u25n710: [2915397.682150] graph500_refere[13066]: segfault at 7ffdc596cf66 ip 00000000004027a0 sp 00007fffffff9498 error 6 in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000]

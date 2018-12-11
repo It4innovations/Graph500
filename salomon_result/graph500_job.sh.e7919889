@@ -1,0 +1,25 @@
+
+Currently Loaded Modules:
+  1) GCCcore/6.4.0
+  2) binutils/2.28-GCCcore-6.4.0
+  3) icc/2018.1.163-GCC-6.4.0-2.28
+  4) ifort/2018.1.163-GCC-6.4.0-2.28
+  5) iccifort/2018.1.163-GCC-6.4.0-2.28
+  6) impi/2018.1.163-iccifort-2018.1.163-GCC-6.4.0-2.28
+  7) iimpi/2018a
+  8) imkl/2018.1.163-iimpi-2018a
+  9) intel/2018a
+ 10) Graph500/3.0.0-intel-2018a
+graph_generation:               357.101011 s
+/home/han0037/Desktop/Graph500/graph500_job_command.sh: line 8: 28532 Segmentation fault      graph500_reference_bfs $G5_PROBLEM_SIZE 16
+r22u24n637: # PBS Epilogue Report
+r22u24n637: # Issues found in kernel log
+r22u24n637: [2915573.081815] graph500_refere[28528]: segfault at 7ffc9c94b438 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r22u24n637: [2915573.081820] graph500_refere[28522]: segfault at 7ffc5c1d5e1c ip 00000000004027a0 sp 00007fffffff9498 error 6
+r22u24n637: [2915573.081823] graph500_refere[28542]: segfault at 7ffc305b6a52 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r22u24n637: [2915573.081828] graph500_refere[28534]: segfault at 7ffc9d13d9da ip 00000000004027a0 sp 00007fffffff9498 error 6
+r22u24n637: [2915573.081832] graph500_refere[28546]: segfault at 7ffc49681560 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r22u24n637: [2915573.081836] graph500_refere[28532]: segfault at 7ffc4304174c ip 00000000004027a0 sp 00007fffffff9498 error 6
+r22u24n637: [2915573.081840] graph500_refere[28540]: segfault at 7ffc9c02ef4e ip 00000000004027a0 sp 00007fffffff9498 error 6
+r22u24n637: [2915573.081844] graph500_refere[28541]: segfault at 7ffc6e71c7da ip 00000000004027a0 sp 00007fffffff9498 error 6
+r22u24n637: [2915573.081848] graph500_refere[28548]: segfault at 7ffc89235164 ip 00000000004027a0 sp 00007fffffff9498 error 6 in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000]

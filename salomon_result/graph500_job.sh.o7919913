@@ -1,0 +1,38 @@
+Parameters:
+MPI procs: 64
+Nodes: 4
+Problem size: 27
+SCALE:                          27
+edgefactor:                     16
+NBFS:                           64
+graph_generation:               20.7256
+num_mpi_processes:              64
+construction_time:              15.5384
+bfs  min_time:                  2.88473
+bfs  firstquartile_time:        2.92653
+bfs  median_time:               2.93288
+bfs  thirdquartile_time:        2.94857
+bfs  max_time:                  2.97844
+bfs  mean_time:                 2.93623
+bfs  stddev_time:               0.0177459
+min_nedge:                      2147457511
+firstquartile_nedge:            2147457511
+median_nedge:                   2147457511
+thirdquartile_nedge:            2147457511
+max_nedge:                      2147457511
+mean_nedge:                     2147457511
+stddev_nedge:                   0
+bfs  min_TEPS:                  7.21001e+08
+bfs  firstquartile_TEPS:        7.28305e+08
+bfs  median_TEPS:               7.32201e+08
+bfs  thirdquartile_TEPS:        7.33789e+08
+bfs  max_TEPS:                  7.44421e+08
+bfs  harmonic_mean_TEPS:     !  7.31365e+08
+bfs  harmonic_stddev_TEPS:      556893
+bfs  min_validate:              -1
+bfs  firstquartile_validate:    -1
+bfs  median_validate:           -1
+bfs  thirdquartile_validate:    -1
+bfs  max_validate:              -1
+bfs  mean_validate:             -1
+bfs  stddev_validate:           0

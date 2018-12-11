@@ -1,0 +1,18 @@
+
+Currently Loaded Modules:
+  1) GCCcore/6.4.0
+  2) binutils/2.28-GCCcore-6.4.0
+  3) icc/2018.1.163-GCC-6.4.0-2.28
+  4) ifort/2018.1.163-GCC-6.4.0-2.28
+  5) iccifort/2018.1.163-GCC-6.4.0-2.28
+  6) impi/2018.1.163-iccifort-2018.1.163-GCC-6.4.0-2.28
+  7) iimpi/2018a
+  8) imkl/2018.1.163-iimpi-2018a
+  9) intel/2018a
+ 10) Graph500/3.0.0-intel-2018a
+/home/han0037/Desktop/Graph500/graph500_job_command.sh: line 8: 28519 Killed                  graph500_reference_bfs $G5_PROBLEM_SIZE 16
+r22u25n638: # PBS Epilogue Report
+r22u25n638: # Issues found in kernel log
+r22u25n638: [2860617.114889] graph500_refere invoked oom-killer: gfp_mask=0xd0, order=0, oom_adj=0, oom_score_adj=0
+r22u25n638: [2860618.528113] Memory cgroup out of memory: Kill process 28519 (graph500_refere) score 62 or sacrifice child
+r22u25n638: [2860618.537856] Killed process 28519, UID 2302, (graph500_refere) total-vm:12865808kB, anon-rss:7603388kB, file-rss:1436kB

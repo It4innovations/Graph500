@@ -1,0 +1,29 @@
+
+Currently Loaded Modules:
+  1) GCCcore/6.4.0
+  2) binutils/2.28-GCCcore-6.4.0
+  3) icc/2018.1.163-GCC-6.4.0-2.28
+  4) ifort/2018.1.163-GCC-6.4.0-2.28
+  5) iccifort/2018.1.163-GCC-6.4.0-2.28
+  6) impi/2018.1.163-iccifort-2018.1.163-GCC-6.4.0-2.28
+  7) iimpi/2018a
+  8) imkl/2018.1.163-iimpi-2018a
+  9) intel/2018a
+ 10) Graph500/3.0.0-intel-2018a
+graph_generation:               169.488659 s
+/home/han0037/Desktop/Graph500/graph500_job_command.sh: line 8: 24581 Segmentation fault      graph500_reference_bfs $G5_PROBLEM_SIZE 16
+/home/han0037/Desktop/Graph500/graph500_job_command.sh: line 8: 24579 Segmentation fault      graph500_reference_bfs $G5_PROBLEM_SIZE 16
+/home/han0037/Desktop/Graph500/graph500_job_command.sh: line 8: 24578 Segmentation fault      graph500_reference_bfs $G5_PROBLEM_SIZE 16
+/home/han0037/Desktop/Graph500/graph500_job_command.sh: line 8: 24585 Segmentation fault      graph500_reference_bfs $G5_PROBLEM_SIZE 16
+r23u06n618: # PBS Epilogue Report
+r23u06n618: # Issues found in kernel log
+r23u06n618: [1732283.729261] graph500_refere[24566]: segfault at 7ffddfcd7bba ip 00000000004027a0 sp 00007fffffff9498 error 6
+r23u06n618: [1732283.729264] graph500_refere[24573]: segfault at 7ffdfcf9a66e ip 00000000004027a0 sp 00007fffffff9498 error 6
+r23u06n618: [1732283.729268] graph500_refere[24595]: segfault at 7ffe023b97b8 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r23u06n618: [1732283.729272] graph500_refere[24593]: segfault at 7ffdd0eac30e ip 00000000004027a0 sp 00007fffffff9498 error 6
+r23u06n618: [1732283.729276] graph500_refere[24574]: segfault at 7ffdece53f96 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r23u06n618: [1732283.729280] graph500_refere[24587]: segfault at 7ffdf553cb62 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r23u06n618: [1732283.729284] graph500_refere[24569]: segfault at 7ffdd82b2164 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r23u06n618: [1732283.729287] graph500_refere[24590]: segfault at 7ffdecdd3cf2 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r23u06n618: [1732283.729293] graph500_refere[24578]: segfault at 7ffdf8d5d380 ip 00000000004027a0 sp 00007fffffff9498 error 6
+r23u06n618: [1732283.729297] graph500_refere[24585]: segfault at 7ffdfbbbfa0e ip 00000000004027a0 sp 00007fffffff9498 error 6 in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000] in graph500_reference_bfs[400000+8d000]

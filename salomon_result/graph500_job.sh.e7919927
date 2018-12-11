@@ -1,0 +1,206 @@
+
+Currently Loaded Modules:
+  1) GCCcore/6.4.0
+  2) binutils/2.28-GCCcore-6.4.0
+  3) icc/2018.1.163-GCC-6.4.0-2.28
+  4) ifort/2018.1.163-GCC-6.4.0-2.28
+  5) iccifort/2018.1.163-GCC-6.4.0-2.28
+  6) impi/2018.1.163-iccifort-2018.1.163-GCC-6.4.0-2.28
+  7) iimpi/2018a
+  8) imkl/2018.1.163-iimpi-2018a
+  9) intel/2018a
+ 10) Graph500/3.0.0-intel-2018a
+graph_generation:               21.356607 s
+construction_time:              16.111711 s
+Running BFS 0
+Time for BFS 0 is 3.300596
+TEPS for BFS 0 is 1.30126e+09
+Running BFS 1
+Time for BFS 1 is 3.315564
+TEPS for BFS 1 is 1.29538e+09
+Running BFS 2
+Time for BFS 2 is 3.329984
+TEPS for BFS 2 is 1.28977e+09
+Running BFS 3
+Time for BFS 3 is 3.314329
+TEPS for BFS 3 is 1.29586e+09
+Running BFS 4
+Time for BFS 4 is 3.341951
+TEPS for BFS 4 is 1.28515e+09
+Running BFS 5
+Time for BFS 5 is 3.313356
+TEPS for BFS 5 is 1.29625e+09
+Running BFS 6
+Time for BFS 6 is 3.311807
+TEPS for BFS 6 is 1.29685e+09
+Running BFS 7
+Time for BFS 7 is 3.293738
+TEPS for BFS 7 is 1.30397e+09
+Running BFS 8
+Time for BFS 8 is 3.333332
+TEPS for BFS 8 is 1.28848e+09
+Running BFS 9
+Time for BFS 9 is 3.294972
+TEPS for BFS 9 is 1.30348e+09
+Running BFS 10
+Time for BFS 10 is 3.300231
+TEPS for BFS 10 is 1.3014e+09
+Running BFS 11
+Time for BFS 11 is 3.346971
+TEPS for BFS 11 is 1.28323e+09
+Running BFS 12
+Time for BFS 12 is 3.332016
+TEPS for BFS 12 is 1.28899e+09
+Running BFS 13
+Time for BFS 13 is 3.358040
+TEPS for BFS 13 is 1.279e+09
+Running BFS 14
+Time for BFS 14 is 3.326158
+TEPS for BFS 14 is 1.29126e+09
+Running BFS 15
+Time for BFS 15 is 3.315340
+TEPS for BFS 15 is 1.29547e+09
+Running BFS 16
+Time for BFS 16 is 3.319775
+TEPS for BFS 16 is 1.29374e+09
+Running BFS 17
+Time for BFS 17 is 3.334032
+TEPS for BFS 17 is 1.28821e+09
+Running BFS 18
+Time for BFS 18 is 3.306613
+TEPS for BFS 18 is 1.29889e+09
+Running BFS 19
+Time for BFS 19 is 3.308746
+TEPS for BFS 19 is 1.29805e+09
+Running BFS 20
+Time for BFS 20 is 3.336173
+TEPS for BFS 20 is 1.28738e+09
+Running BFS 21
+Time for BFS 21 is 3.344538
+TEPS for BFS 21 is 1.28416e+09
+Running BFS 22
+Time for BFS 22 is 3.290258
+TEPS for BFS 22 is 1.30534e+09
+Running BFS 23
+Time for BFS 23 is 3.314883
+TEPS for BFS 23 is 1.29565e+09
+Running BFS 24
+Time for BFS 24 is 3.303669
+TEPS for BFS 24 is 1.30005e+09
+Running BFS 25
+Time for BFS 25 is 3.276944
+TEPS for BFS 25 is 1.31065e+09
+Running BFS 26
+Time for BFS 26 is 3.277755
+TEPS for BFS 26 is 1.31032e+09
+Running BFS 27
+Time for BFS 27 is 3.300590
+TEPS for BFS 27 is 1.30126e+09
+Running BFS 28
+Time for BFS 28 is 3.337967
+TEPS for BFS 28 is 1.28669e+09
+Running BFS 29
+Time for BFS 29 is 3.309578
+TEPS for BFS 29 is 1.29772e+09
+Running BFS 30
+Time for BFS 30 is 3.314179
+TEPS for BFS 30 is 1.29592e+09
+Running BFS 31
+Time for BFS 31 is 3.304907
+TEPS for BFS 31 is 1.29956e+09
+Running BFS 32
+Time for BFS 32 is 3.318038
+TEPS for BFS 32 is 1.29442e+09
+Running BFS 33
+Time for BFS 33 is 3.293855
+TEPS for BFS 33 is 1.30392e+09
+Running BFS 34
+Time for BFS 34 is 3.316530
+TEPS for BFS 34 is 1.295e+09
+Running BFS 35
+Time for BFS 35 is 3.558929
+TEPS for BFS 35 is 1.2068e+09
+Running BFS 36
+Time for BFS 36 is 3.515535
+TEPS for BFS 36 is 1.2217e+09
+Running BFS 37
+Time for BFS 37 is 3.398700
+TEPS for BFS 37 is 1.2637e+09
+Running BFS 38
+Time for BFS 38 is 3.334193
+TEPS for BFS 38 is 1.28814e+09
+Running BFS 39
+Time for BFS 39 is 3.338455
+TEPS for BFS 39 is 1.2865e+09
+Running BFS 40
+Time for BFS 40 is 3.354602
+TEPS for BFS 40 is 1.28031e+09
+Running BFS 41
+Time for BFS 41 is 3.301718
+TEPS for BFS 41 is 1.30081e+09
+Running BFS 42
+Time for BFS 42 is 3.324999
+TEPS for BFS 42 is 1.29171e+09
+Running BFS 43
+Time for BFS 43 is 3.283901
+TEPS for BFS 43 is 1.30787e+09
+Running BFS 44
+Time for BFS 44 is 3.304575
+TEPS for BFS 44 is 1.29969e+09
+Running BFS 45
+Time for BFS 45 is 3.349031
+TEPS for BFS 45 is 1.28244e+09
+Running BFS 46
+Time for BFS 46 is 3.326581
+TEPS for BFS 46 is 1.29109e+09
+Running BFS 47
+Time for BFS 47 is 3.322694
+TEPS for BFS 47 is 1.2926e+09
+Running BFS 48
+Time for BFS 48 is 3.317555
+TEPS for BFS 48 is 1.2946e+09
+Running BFS 49
+Time for BFS 49 is 3.308958
+TEPS for BFS 49 is 1.29797e+09
+Running BFS 50
+Time for BFS 50 is 3.307288
+TEPS for BFS 50 is 1.29862e+09
+Running BFS 51
+Time for BFS 51 is 3.317486
+TEPS for BFS 51 is 1.29463e+09
+Running BFS 52
+Time for BFS 52 is 3.348273
+TEPS for BFS 52 is 1.28273e+09
+Running BFS 53
+Time for BFS 53 is 3.644952
+TEPS for BFS 53 is 1.17832e+09
+Running BFS 54
+Time for BFS 54 is 3.515936
+TEPS for BFS 54 is 1.22156e+09
+Running BFS 55
+Time for BFS 55 is 3.435686
+TEPS for BFS 55 is 1.25009e+09
+Running BFS 56
+Time for BFS 56 is 3.532710
+TEPS for BFS 56 is 1.21576e+09
+Running BFS 57
+Time for BFS 57 is 3.574979
+TEPS for BFS 57 is 1.20138e+09
+Running BFS 58
+Time for BFS 58 is 3.459059
+TEPS for BFS 58 is 1.24164e+09
+Running BFS 59
+Time for BFS 59 is 3.572329
+TEPS for BFS 59 is 1.20227e+09
+Running BFS 60
+Time for BFS 60 is 3.584621
+TEPS for BFS 60 is 1.19815e+09
+Running BFS 61
+Time for BFS 61 is 3.629527
+TEPS for BFS 61 is 1.18333e+09
+Running BFS 62
+Time for BFS 62 is 3.495196
+TEPS for BFS 62 is 1.22881e+09
+Running BFS 63
+Time for BFS 63 is 3.493171
+TEPS for BFS 63 is 1.22952e+09
